@@ -15,7 +15,10 @@
  
  # Skills in
  <div style="display: inline-block"><br>
-    <img align="center" alt="github" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>   
+    <img align="center" alt="Python" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="MySQL" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="github" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    
 
  </div>
  
@@ -23,7 +26,13 @@
  
  # I'm Currently Studying
   <div style="display: inline-block"><br>
+      <img align="center" alt="MySQL" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+      <img align="center" alt="Python" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+      <img align="center" alt="github" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
       <img align="center" alt="sql" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+      
+
+    
  </div>
  
  
