@@ -11,6 +11,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euller-Pinheiro&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
+
   </a>
   <a href="https://www.linkedin.com/in/sartorijuliana">
     <img src="https://img.shields.io/badge/LinkedIn-2383FF?style=for-the-badge&logo=linkedin&logoColor=white">
