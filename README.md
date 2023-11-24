@@ -4,14 +4,6 @@
 
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Juliana+Sartori;Tenho+27+anos.;Sou+Dev+JR.;)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juliana-Sartori&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-Sartori&theme=github_dark&layout=compact&hide_border=true" />
-</a> 
-
   </a>
   <a href="https://www.linkedin.com/in/sartorijuliana">
     <img src="https://img.shields.io/badge/LinkedIn-2383FF?style=for-the-badge&logo=linkedin&logoColor=white">
