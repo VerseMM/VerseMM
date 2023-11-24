@@ -1,8 +1,7 @@
-
 <div align=center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=2383FF" />
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Juliana+Sartori;Tenho+27+anos.;Sou+Dev+JR.;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Bem-vindo(a)+ao+meu+perfil!;Meu+nome+é+Juliana+Sartori;Tenho+27+anos.;Sou+Dev+e+Analista+de+Dados+JR.;)](https://git.io/typing-svg)
 
   </a>
   <a href="https://www.linkedin.com/in/sartorijuliana">
